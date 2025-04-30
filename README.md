@@ -108,7 +108,7 @@ page 3
 ```
 ## OUTPUT:
 
-![wb](https://github.com/user-attachments/assets/710dfd77-4727-434f-88ac-73686a58b579)
+![wb](https://github.com/user-attachments/assets/96cf5978-a465-4a0c-9340-240dfe366bb7)
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
